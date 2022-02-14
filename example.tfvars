@@ -1,0 +1,9 @@
+TF_VERSION="1.0"
+prefix="gcat-multizone"
+region="us-south"
+cos_resource_group=""
+cos_instance=""
+cos_bucket=""
+object_name=""
+resource_group="gcat-landing-zone-dev"
+classic_access=false
